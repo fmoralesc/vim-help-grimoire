@@ -1,6 +1,5 @@
                                                                       *esoteric*
 
-
 No, Emacs is not a text editor, strictly speaking. Neither, for that matter, is
 Vim.
 
@@ -33,3 +32,5 @@ environment. Vim's and Emacs' keybindings become similar to another limb, when
 they are sufficiently ingrained in muscle memory; you can fly through
 information far more rapidly than you can if you are only using the arrow,
 page, and home/end keys.
+
+(from https://www.reddit.com/r/linux/comments/2he8ca/emacs_are_you_sure_its_a_text_editor/ckrxkvh)
