@@ -1,0 +1,35 @@
+                                                                      *esoteric*
+
+
+No, Emacs is not a text editor, strictly speaking. Neither, for that matter, is
+Vim.
+
+I personally refer to both of those programs as ontological filters. You could
+also refer to each of them as a virtual prosthesis. What this means, is that
+they are programs which determine the manner in which you perceive and navigate
+through information. This is true because of the fact that Vim and Emacs
+themselves, are not the only programs which exhibit their behaviour; you can
+also get keybindings which mimic either of them for Bash, as well as being able
+to run things like email programs and HTML editors as Emacs modes.
+
+I discovered this when I realised that hermetic magick has a parallel, with the
+Tarot and Astrology. Both of these are ostensibly divinatory systems, but they
+are also plugged into a system of correspondences which describe various other
+things, such as the characteristics of herbs to be used for medicines etc. If
+you look at old evocational texts like the Goetia, then you will find that each
+demon listed has both a Tarot card and an astrological correspondence as well,
+to assist the operator in determining whether or not a given demon is the
+appropriate one to call.
+
+I would liken Vim with the Tarot, in the sense that superficially at least, it
+is the simpler of the two. Emacs is more comparable with astrology, in the
+sense that astrology connects directly with the entire system of
+correspondences. The cards do as well, but not as specifically.
+
+As a result of this, your choice between these two programs should be made with
+great care; because each of said programs is essentially a window to the rest
+of the operating system, and to a greater or lesser degree, your entire virtual
+environment. Vim's and Emacs' keybindings become similar to another limb, when
+they are sufficiently ingrained in muscle memory; you can fly through
+information far more rapidly than you can if you are only using the arrow,
+page, and home/end keys.
